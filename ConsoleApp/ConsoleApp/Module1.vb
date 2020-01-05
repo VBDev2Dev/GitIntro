@@ -5,7 +5,7 @@
         Console.WriteLine("Hi git step 2.")
         Console.WriteLine("Hi git step 3.")
         Console.WriteLine("Hi git step 4.")
-        Console.WriteLine("Hi git step 5 Modified in master.")
+        Console.WriteLine("Hi git step 5 Modified in master and in Console App.")
 
     End Sub
 
