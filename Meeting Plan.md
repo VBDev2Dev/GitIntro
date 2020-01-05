@@ -51,8 +51,8 @@
   - [x] Lines
   - [x] Commit
 - [ ] Remotes
-  - [ ] Configure
-    - [ ] Add putty key
-  - [ ] Branch defaults
-  - [ ] Push
-  - [ ] Pull/Fetch
+  - [x] Configure
+    - [x] Add putty key
+  - [x] Branch defaults
+  - [x] Push
+  - [x] Pull/Fetch
