@@ -50,7 +50,7 @@
   - [x] Files
   - [x] Lines
   - [x] Commit
-- [ ] Remotes
+- [x] Remotes
   - [x] Configure
     - [x] Add putty key
   - [x] Branch defaults
