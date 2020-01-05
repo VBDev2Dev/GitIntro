@@ -35,21 +35,21 @@
 
 - [x] Create repo
 - [x] Set .gitignore
-- [ ] Commit
-  - [ ] Stage files
-  - [ ] Message (50/72 rule)
-- [ ] Stash
-- [ ] Create branch
-- [ ] Checkout
-  - [ ] Branch
-  - [ ] Commit (headless)
-- [ ] Merge Branch
-- [ ] Rebase Branch
-- [ ] Merge conflict
-- [ ] Reset
-  - [ ] Files
-  - [ ] Lines
-  - [ ] Commit
+- [x] Commit
+  - [x] Stage files
+  - [x] Message (50/72 rule)
+- [x] Stash
+- [x] Create branch
+- [x] Checkout
+  - [x] Branch
+  - [x] Commit (headless)
+- [x] Merge Branch
+- [x] Rebase Branch
+- [x] Merge conflict
+- [x] Reset
+  - [x] Files
+  - [x] Lines
+  - [x] Commit
 - [ ] Remotes
   - [ ] Configure
     - [ ] Add putty key
