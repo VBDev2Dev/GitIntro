@@ -5,7 +5,7 @@
   - Backup/restore of code
   - Collaboration
 - [x] Install chocolatey and run [powershell script](install.ps1)
-- [ ] Configure Git
+- [x] Configure Git
   - [x] name and email address
   - [x] diff/merge tool
   - [x] Putty key
